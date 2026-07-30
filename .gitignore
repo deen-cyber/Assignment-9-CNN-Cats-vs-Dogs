@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+dog-and-cat-classification-dataset.zip
+PetImages/
+cats_vs_dogs_data/
+__pycache__/
+.DS_Store
